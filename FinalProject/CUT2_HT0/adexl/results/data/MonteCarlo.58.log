@@ -1,0 +1,171 @@
+Starting Monte Carlo Sampling...
+
+Current time: Fri Apr 19 19:43:03 2024 
+
+Variation: All
+Sampling Method: Low-Discrepancy Sequence
+Seed: 
+
+MonteCarlo.58
+Number of points completed: 200
+Number of simulation errors: 0
+MonteCarlo.58 completed. 
+Current time: Fri Apr 19 20:03:43 2024 
+Monte Carlo Sampling yield summary:
+Number of spec values are in this yield data: 48
+S1	Nominal - 
+	'001:	Yield	100%
+		Min 3.83777e-08	Max 1.20505e-06	Mean 2.01953e-07	Number of errors 0
+S1	Nominal - 
+	'010:	Yield	100%
+		Min 3.5115e-08	Max 1.16925e-06	Mean 1.93474e-07	Number of errors 0
+S1	Nominal - 
+	'011:	Yield	100%
+		Min 3.90084e-08	Max 1.35242e-06	Mean 2.14597e-07	Number of errors 0
+S1	Nominal - 
+	'100:	Yield	100%
+		Min 3.57532e-08	Max 1.2336e-06	Mean 2.03109e-07	Number of errors 0
+S1	Nominal - 
+	'101:	Yield	100%
+		Min 4.13298e-08	Max 1.48198e-06	Mean 2.34676e-07	Number of errors 0
+S1	Nominal - 
+	'110:	Yield	100%
+		Min 4.40217e-08	Max 1.41464e-06	Mean 2.28598e-07	Number of errors 0
+S1	Nominal - 
+	'111:	Yield	100%
+		Min 4.22392e-08	Max 1.37149e-06	Mean 2.19343e-07	Number of errors 0
+S1	Nominal - 
+	1-000:	Yield	100%
+		Min 3.49231e-08	Max 1.10837e-06	Mean 1.85874e-07	Number of errors 0
+S2	Nominal - 
+	'00000:	Yield	100%
+		Min 2.68444e-08	Max 8.52873e-07	Mean 1.39531e-07	Number of errors 0
+S2	Nominal - 
+	'00001:	Yield	100%
+		Min 2.83694e-08	Max 9.16083e-07	Mean 1.49261e-07	Number of errors 0
+S2	Nominal - 
+	'00010:	Yield	100%
+		Min 3.0479e-08	Max 9.18032e-07	Mean 1.54459e-07	Number of errors 0
+S2	Nominal - 
+	'00011:	Yield	100%
+		Min 3.16744e-08	Max 9.07853e-07	Mean 1.5045e-07	Number of errors 0
+S2	Nominal - 
+	'00100:	Yield	100%
+		Min 2.58879e-08	Max 8.57481e-07	Mean 1.39032e-07	Number of errors 0
+S2	Nominal - 
+	'00101:	Yield	100%
+		Min 2.58878e-08	Max 8.57452e-07	Mean 1.3903e-07	Number of errors 0
+S2	Nominal - 
+	'00110:	Yield	100%
+		Min 2.54341e-08	Max 7.9595e-07	Mean 1.33864e-07	Number of errors 0
+S2	Nominal - 
+	'00111:	Yield	100%
+		Min 2.57011e-08	Max 8.45431e-07	Mean 1.36509e-07	Number of errors 0
+S2	Nominal - 
+	'01000:	Yield	100%
+		Min 2.42413e-08	Max 8.66759e-07	Mean 1.39138e-07	Number of errors 0
+S2	Nominal - 
+	'01001:	Yield	100%
+		Min 2.42412e-08	Max 8.66742e-07	Mean 1.39136e-07	Number of errors 0
+S2	Nominal - 
+	'01010:	Yield	100%
+		Min 2.38138e-08	Max 8.05222e-07	Mean 1.33989e-07	Number of errors 0
+S2	Nominal - 
+	'01011:	Yield	100%
+		Min 2.42058e-08	Max 8.54763e-07	Mean 1.36763e-07	Number of errors 0
+S2	Nominal - 
+	'01100:	Yield	100%
+		Min 2.83796e-08	Max 9.07156e-07	Mean 1.45011e-07	Number of errors 0
+S2	Nominal - 
+	'01101:	Yield	100%
+		Min 2.88516e-08	Max 9.74108e-07	Mean 1.53501e-07	Number of errors 0
+S2	Nominal - 
+	'01110:	Yield	100%
+		Min 3.03763e-08	Max 1.03744e-06	Mean 1.63247e-07	Number of errors 0
+S2	Nominal - 
+	'01111:	Yield	100%
+		Min 2.9367e-08	Max 1.04111e-06	Mean 1.61989e-07	Number of errors 0
+S2	Nominal - 
+	'10000:	Yield	100%
+		Min 2.35598e-08	Max 8.59507e-07	Mean 1.3738e-07	Number of errors 0
+S2	Nominal - 
+	'10001:	Yield	100%
+		Min 2.35593e-08	Max 8.59453e-07	Mean 1.37375e-07	Number of errors 0
+S2	Nominal - 
+	'10010:	Yield	100%
+		Min 2.31782e-08	Max 7.97931e-07	Mean 1.32243e-07	Number of errors 0
+S2	Nominal - 
+	'10011:	Yield	100%
+		Min 2.37545e-08	Max 8.47602e-07	Mean 1.35252e-07	Number of errors 0
+S2	Nominal - 
+	'10100:	Yield	100%
+		Min 2.32529e-08	Max 8.66579e-07	Mean 1.38511e-07	Number of errors 0
+S2	Nominal - 
+	'10101:	Yield	100%
+		Min 2.32527e-08	Max 8.66552e-07	Mean 1.38509e-07	Number of errors 0
+S2	Nominal - 
+	'10110:	Yield	100%
+		Min 2.28044e-08	Max 8.05028e-07	Mean 1.3336e-07	Number of errors 0
+S2	Nominal - 
+	'10111:	Yield	100%
+		Min 2.30424e-08	Max 8.54504e-07	Mean 1.35979e-07	Number of errors 0
+S2	Nominal - 
+	'11000:	Yield	100%
+		Min 2.57739e-08	Max 9.29946e-07	Mean 1.48872e-07	Number of errors 0
+S2	Nominal - 
+	'11001:	Yield	100%
+		Min 2.57739e-08	Max 9.29945e-07	Mean 1.48871e-07	Number of errors 0
+S2	Nominal - 
+	'11010:	Yield	100%
+		Min 2.52639e-08	Max 8.58289e-07	Mean 1.39443e-07	Number of errors 0
+S2	Nominal - 
+	'11011:	Yield	100%
+		Min 2.55757e-08	Max 9.0779e-07	Mean 1.42129e-07	Number of errors 0
+S2	Nominal - 
+	'11100:	Yield	100%
+		Min 2.64692e-08	Max 9.63137e-07	Mean 1.48762e-07	Number of errors 0
+S2	Nominal - 
+	'11101:	Yield	100%
+		Min 2.61523e-08	Max 9.70258e-07	Mean 1.49873e-07	Number of errors 0
+S2	Nominal - 
+	'11110:	Yield	100%
+		Min 2.61492e-08	Max 9.70257e-07	Mean 1.49871e-07	Number of errors 0
+S2	Nominal - 
+	'11111:	Yield	100%
+		Min 2.58358e-08	Max 9.77373e-07	Mean 1.50982e-07	Number of errors 0
+S3	Nominal - 
+	'000:	Yield	100%
+		Min 2.2716e-08	Max 6.96448e-07	Mean 1.18755e-07	Number of errors 0
+S3	Nominal - 
+	'001:	Yield	100%
+		Min 2.19151e-08	Max 7.34776e-07	Mean 1.27296e-07	Number of errors 0
+S3	Nominal - 
+	'010:	Yield	100%
+		Min 2.3409e-08	Max 7.0117e-07	Mean 1.25383e-07	Number of errors 0
+S3	Nominal - 
+	'011:	Yield	100%
+		Min 2.66031e-08	Max 8.16372e-07	Mean 1.35454e-07	Number of errors 0
+S3	Nominal - 
+	'100:	Yield	100%
+		Min 2.37559e-08	Max 8.1945e-07	Mean 1.34929e-07	Number of errors 0
+S3	Nominal - 
+	'101:	Yield	100%
+		Min 2.07436e-08	Max 7.46129e-07	Mean 1.22321e-07	Number of errors 0
+S3	Nominal - 
+	'110:	Yield	100%
+		Min 2.34533e-08	Max 8.26559e-07	Mean 1.36066e-07	Number of errors 0
+S3	Nominal - 
+	'111:	Yield	100%
+		Min 2.1415e-08	Max 7.61335e-07	Mean 1.2411e-07	Number of errors 0
+
+S1
+	Overall Yield	100%	Number of points passed	200	Total number of points	200
+
+S2
+	Overall Yield	100%	Number of points passed	200	Total number of points	200
+
+S3
+	Overall Yield	100%	Number of points passed	200	Total number of points	200
+
+Estimated yield = 100% (200/200), 0 errors
+Estimated yield (No opregions) = 100% (200/200)

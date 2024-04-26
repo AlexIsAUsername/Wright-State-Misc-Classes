@@ -1,0 +1,18 @@
+Starting Monte Carlo Sampling...
+
+Current time: Tue Mar 26 14:22:10 2024 
+
+Variation: All
+Sampling Method: Low-Discrepancy Sequence
+Seed: 
+
+MonteCarlo.0
+Number of points completed: 200
+Number of simulation errors: 0
+MonteCarlo.0 completed. 
+Current time: Tue Mar 26 14:22:45 2024 
+Monte Carlo Sampling yield summary:
+Number of spec values are in this yield data: 0
+
+Estimated yield = 0% (0/0), 0 errors
+Estimated yield (No opregions) = 0% (0/0)

@@ -1,0 +1,7 @@
+Running: xsim.dir/FourBitAddSubTestbench_behav/xsimk -simmode gui -wdb FourBitAddSubTestbench_behav.wdb -simrunnum 0 -socket 45056
+Design successfully loaded
+Design Loading Memory Usage: 44656 KB (Peak: 44656 KB)
+Design Loading CPU Usage: 10 ms
+Simulation completed
+Simulation Memory Usage: 126396 KB (Peak: 183928 KB)
+Simulation CPU Usage: 70 ms
