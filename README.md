@@ -2,8 +2,8 @@
 
 ##### Lab Grades
 
-![Lab Grades](images/lab%20grades.jpg)
+![Lab Grades](images/lab%20grades.png)
 
 ##### Class Grades
 
-![Class Grades](images/class%20grades.jpg)
+![Class Grades](images/class%20grades.png)
