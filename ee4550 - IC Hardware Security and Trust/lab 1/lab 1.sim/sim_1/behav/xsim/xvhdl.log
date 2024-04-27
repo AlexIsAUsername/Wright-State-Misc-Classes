@@ -1,5 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/ee45500q/lab 1/lab 1.srcs/sources_1/new/FourBitAddSub.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'FourBitAddSub'
-WARNING: [VRFC 10-3093] actual for formal port 'b' is neither a static name nor a globally static expression [/home/ee45500q/lab 1/lab 1.srcs/sources_1/new/FourBitAddSub.vhd:54]
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/ee45500q/lab 1/lab 1.srcs/sim_1/new/FourBitAddSubTestbench.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'FourBitAddSubTestbench'

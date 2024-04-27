@@ -1,9 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../lab 1.srcs/sources_1/new/1BitFullAdder.vhd" \
-"../../../../lab 1.srcs/sources_1/new/FourBitAddSub.vhd" \
-"../../../../lab 1.srcs/sources_1/new/FourBitFullAdder.vhd" \
-"../../../../lab 1.srcs/sim_1/new/FourBitAddSubTestbench.vhd" \
-
-# Do not sort compile order
-nosort
