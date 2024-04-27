@@ -1,0 +1,90 @@
+Rolen Amakiir
+Half-Elf
+Paladin
+18
+11
+16
+10
+11
+16
+Varis Ilphelkiir
+Wood Elf
+Druid
+9
+16
+14
+14
+19
+11
+Amber Battlehammer
+Mountain Dwarf
+Fighter
+16
+16
+13
+13
+12
+12
+Tai Lao
+Half-Elf
+Bard
+9
+15
+14
+10
+13
+16
+Rurik Ungart
+Hill Dwarf
+Cleric
+15
+13
+15
+12
+18
+10
+Andraste Naïlo
+Wood Elf
+Monk
+9
+20
+14
+11
+16
+11
+Lia Liadon
+Half-Elf
+Sorcerer
+10
+14
+15
+12
+12
+17
+Nemia
+Tiefling
+Warlock
+10
+14
+15
+13
+12
+17
+Fonkin Ningel
+Gnome
+Wizard
+7
+15
+15
+18
+9
+8
+Yevelda
+Half-Orc
+Barbarian
+18
+14
+16
+10
+12
+6

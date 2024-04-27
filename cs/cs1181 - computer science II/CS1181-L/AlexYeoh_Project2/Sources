@@ -1,0 +1,14 @@
+Images:
+cookie monster image: https://wikiclipart.com/cookie-monster-clip-art_8822/
+cookie image: http://clipart-library.com/clipart/130023.htm
+hole image: cookie monster image background
+eaten cookie image: cookie image edited
+
+Code:
+How to make JLabel text wrap: https://stackoverflow.com/questions/2420742/make-a-jlabel-wrap-its-text-by-setting-a-max-width 
+How to make newlines in JLabel: https://stackoverflow.com/questions/1090098/newline-in-jlabel
+How to make radio buttons: https://docs.oracle.com/javase/tutorial/uiswing/examples/components/RadioButtonDemoProject/src/components/RadioButtonDemo.java
+How to close one frame without closing the program: https://stackoverflow.com/questions/1944446/close-one-jframe-without-closing-another
+Lecture 15 recording: 9/27/21 lecture recording
+How to get a new window to close the old window: https://stackoverflow.com/questions/1234912/how-to-programmatically-close-a-jframe
+How to resize an image to fit a JButton: https://stackoverflow.com/questions/36957450/fit-size-of-an-imageicon-to-a-jbutton
